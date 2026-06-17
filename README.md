@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhisek;Mechanical+%26+Robotics+Engineer;Building+with+ROS+2+%26+LiDAR;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhisek;Mechanical+%26+Robotics+Engineer;" alt="Typing SVG" />
 </p>
 
 
